@@ -37,12 +37,12 @@ header h2{
 
 ul.main_menu{
 	margin-top: 15px;
-	list-style-type: none;
 }
 
 .main_menu li {
 	padding: 0 10px 0 10
 	font-size: 20px
+	list-style-type: none;
 }
 
 .main_menu a{
