@@ -27,11 +27,6 @@ header h2{
 	font-variant: small-caps;
 	text-align: center;
 	color: fff;
-li.view{
-	text-transform: uppercase;
-	text-align: center;
-	color: 696969;
-	line-height: 100px;
 }
 .main_menu{
 	padding: 5px 0 5px 0;
