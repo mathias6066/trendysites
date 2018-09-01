@@ -32,18 +32,15 @@ header h2{
 	padding: 5px 0 5px 0;
 	text-align: left;
 	background-color: #000000; 
-	list-style-type: none;
 }
 	
 ul.main_menu{
 	margin-top: 15px;
-	list-style-type: none;
 }
 
 .main_menu li {
 	padding: 0 10px 0 10
 	font-size: 20px
-	list-style-type: none;
 }
 
 .main_menu a{
