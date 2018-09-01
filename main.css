@@ -28,7 +28,12 @@ header h2{
 	text-align: center;
 	color: fff;
 }	
-
+.view{
+	padding: 5px 0 5px 0;
+	text-align: left;
+	background-color: #000000; 
+	list-style-type: none;
+}
 .main_menu{
 	padding: 5px 0 5px 0;
 	text-align: left;
