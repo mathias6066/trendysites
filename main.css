@@ -31,13 +31,17 @@ header h2{
 .view{
 	padding: 5px 0 5px 0;
 	text-align: left;
-	background-color: #000000; 
+	background-color: #696969; 
 	list-style-type: none;
 }
 .main_menu{
 	padding: 5px 0 5px 0;
 	text-align: left;
 	background-color: #000000; 
+	list-style-type: none;
+}
+p.view{
+	margin-top: 5px;
 	list-style-type: none;
 }
 
