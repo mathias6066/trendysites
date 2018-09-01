@@ -36,7 +36,8 @@ header h2{
 }
 
 ul.main_menu{
-	margin-top: 15px;	
+	margin-top: 15px;
+	list-style-type: none;
 }
 
 .main_menu li {
